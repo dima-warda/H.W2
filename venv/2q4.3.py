@@ -11,5 +11,3 @@ for items in range (4) :
 # print(b)
 # print(c)
 # print(d)
-
-
